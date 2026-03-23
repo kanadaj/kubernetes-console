@@ -29,7 +29,7 @@
       }
     },
     "flags": {
-      "required": ["OCS"]
+      
     }
   },
   {
@@ -42,7 +42,7 @@
       }
     },
     "flags": {
-      "required": ["OCS"]
+      
     }
   },
   {
@@ -54,7 +54,7 @@
       }
     },
     "flags": {
-      "required": ["OCS"]
+      
     }
   },
   {
@@ -137,7 +137,7 @@
       "href": "/ocs-dashboards"
     },
     "flags": {
-      "required": ["OCS"],
+      ,
       "disallowed": ["ODF_MANAGED", "ODF_MODEL"]
     }
   },
@@ -165,7 +165,7 @@
       }
     },
     "flags": {
-      "required": ["OCS"],
+      ,
       "disallowed": ["BLOCK_POOL"]
     }
   },
@@ -179,7 +179,7 @@
       }
     },
     "flags": {
-      "required": ["OCS"],
+      ,
       "disallowed": ["BLOCK_POOL"]
     }
   },
