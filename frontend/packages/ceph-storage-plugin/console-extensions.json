@@ -27,9 +27,6 @@
       "action": {
         "$codeRef": "alert.launchClusterExpansionModal"
       }
-    },
-    "flags": {
-      
     }
   },
   {
@@ -40,9 +37,6 @@
       "action": {
         "$codeRef": "alert.launchClusterExpansionModal"
       }
-    },
-    "flags": {
-      
     }
   },
   {
@@ -52,9 +46,6 @@
       "Component": {
         "$codeRef": "storageProvider"
       }
-    },
-    "flags": {
-      
     }
   },
   {
@@ -137,7 +128,6 @@
       "href": "/ocs-dashboards"
     },
     "flags": {
-      
       "disallowed": ["ODF_MANAGED", "ODF_MODEL"]
     }
   },
@@ -165,7 +155,6 @@
       }
     },
     "flags": {
-      
       "disallowed": ["BLOCK_POOL"]
     }
   },
@@ -179,7 +168,6 @@
       }
     },
     "flags": {
-      
       "disallowed": ["BLOCK_POOL"]
     }
   },
