@@ -137,7 +137,7 @@
       "href": "/ocs-dashboards"
     },
     "flags": {
-      ,
+      
       "disallowed": ["ODF_MANAGED", "ODF_MODEL"]
     }
   },
@@ -165,7 +165,7 @@
       }
     },
     "flags": {
-      ,
+      
       "disallowed": ["BLOCK_POOL"]
     }
   },
@@ -179,7 +179,7 @@
       }
     },
     "flags": {
-      ,
+      
       "disallowed": ["BLOCK_POOL"]
     }
   },
